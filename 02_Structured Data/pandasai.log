@@ -1,0 +1,592 @@
+2024-06-08 20:45:08 [INFO] Question: Can you provide me the detailed statistic of this dataset
+2024-06-08 20:45:08 [INFO] Running PandasAI with openai LLM...
+2024-06-08 20:45:08 [INFO] Prompt ID: dd46c22b-f3b5-4c34-9fb2-117473cec4b7
+2024-06-08 20:45:09 [INFO] Executing Pipeline: GenerateChatPipeline
+2024-06-08 20:45:09 [INFO] Executing Step 0: ValidatePipelineInput
+2024-06-08 20:45:09 [INFO] Executing Step 1: CacheLookup
+2024-06-08 20:45:09 [INFO] Executing Step 2: PromptGeneration
+2024-06-08 20:45:09 [ERROR] Pipeline failed on step 2: 'Index' object has no attribute '_format_native_types'
+2024-06-08 20:45:24 [INFO] Question: Can you provide me the detailed statistic of this dataset
+2024-06-08 20:45:25 [INFO] Running PandasAI with openai LLM...
+2024-06-08 20:45:25 [INFO] Prompt ID: 4de897e5-e88a-4506-93c2-9fb340d503b3
+2024-06-08 20:45:25 [INFO] Executing Pipeline: GenerateChatPipeline
+2024-06-08 20:45:25 [INFO] Executing Step 0: ValidatePipelineInput
+2024-06-08 20:45:25 [INFO] Executing Step 1: CacheLookup
+2024-06-08 20:45:25 [INFO] Executing Step 2: PromptGeneration
+2024-06-08 20:45:25 [ERROR] Pipeline failed on step 2: 'Index' object has no attribute '_format_native_types'
+2024-06-08 21:22:59 [INFO] Question: Can you provide me the detailed statistic of this dataset
+2024-06-08 21:22:59 [INFO] Running PandasAI with openai LLM...
+2024-06-08 21:22:59 [INFO] Prompt ID: 2106876e-85d1-43a3-bd96-d175f0ba942e
+2024-06-08 21:22:59 [INFO] Executing Pipeline: GenerateChatPipeline
+2024-06-08 21:22:59 [INFO] Executing Step 0: ValidatePipelineInput
+2024-06-08 21:22:59 [INFO] Executing Step 1: CacheLookup
+2024-06-08 21:22:59 [INFO] Executing Step 2: PromptGeneration
+2024-06-08 21:22:59 [ERROR] Pipeline failed on step 2: 'Index' object has no attribute '_format_native_types'
+2024-06-08 21:23:45 [INFO] Question: Can you provide me the detailed statistic of this dataset
+2024-06-08 21:23:45 [INFO] Running PandasAI with openai LLM...
+2024-06-08 21:23:45 [INFO] Prompt ID: a0c981d9-ae7e-465e-96a2-b9c50ef97e3b
+2024-06-08 21:23:45 [INFO] Executing Pipeline: GenerateChatPipeline
+2024-06-08 21:23:45 [INFO] Executing Step 0: ValidatePipelineInput
+2024-06-08 21:23:45 [INFO] Executing Step 1: CacheLookup
+2024-06-08 21:23:45 [INFO] Executing Step 2: PromptGeneration
+2024-06-08 21:23:45 [ERROR] Pipeline failed on step 2: 'Index' object has no attribute '_format_native_types'
+2024-06-08 21:25:08 [INFO] Question: Can you provide me the detailed statistic of this dataset
+2024-06-08 21:25:08 [INFO] Running PandasAI with openai LLM...
+2024-06-08 21:25:08 [INFO] Prompt ID: 2c47a907-c154-499b-a57b-2b13be467df8
+2024-06-08 21:25:08 [INFO] Executing Pipeline: GenerateChatPipeline
+2024-06-08 21:25:08 [INFO] Executing Step 0: ValidatePipelineInput
+2024-06-08 21:25:08 [INFO] Executing Step 1: CacheLookup
+2024-06-08 21:25:08 [INFO] Executing Step 2: PromptGeneration
+2024-06-08 21:25:08 [ERROR] Pipeline failed on step 2: 'Index' object has no attribute '_format_native_types'
+2024-06-08 21:25:17 [INFO] Question: Can you provide me the detailed statistic of this dataset
+2024-06-08 21:25:17 [INFO] Running PandasAI with openai LLM...
+2024-06-08 21:25:17 [INFO] Prompt ID: 94af43d9-782b-4dfe-aecb-5b5239651e73
+2024-06-08 21:25:17 [INFO] Executing Pipeline: GenerateChatPipeline
+2024-06-08 21:25:17 [INFO] Executing Step 0: ValidatePipelineInput
+2024-06-08 21:25:17 [INFO] Executing Step 1: CacheLookup
+2024-06-08 21:25:17 [INFO] Executing Step 2: PromptGeneration
+2024-06-08 21:25:17 [ERROR] Pipeline failed on step 2: 'Index' object has no attribute '_format_native_types'
+2024-06-08 21:26:30 [INFO] Question: Can you provide me the detailed statistic of this dataset
+2024-06-08 21:26:30 [INFO] Running PandasAI with openai LLM...
+2024-06-08 21:26:30 [INFO] Prompt ID: fc7ce702-c92d-49de-a138-b8c872ab4e61
+2024-06-08 21:26:30 [INFO] Executing Pipeline: GenerateChatPipeline
+2024-06-08 21:26:30 [INFO] Executing Step 0: ValidatePipelineInput
+2024-06-08 21:26:30 [INFO] Executing Step 1: CacheLookup
+2024-06-08 21:26:30 [INFO] Executing Step 2: PromptGeneration
+2024-06-08 21:26:30 [INFO] Using prompt: dfs[0]:
+  name: null
+  description: null
+  type: pd.DataFrame
+  rows: 3333
+  columns: 11
+  schema:
+    fields:
+    - name: Churn
+      type: int64
+      samples:
+      - 0
+      - 0
+      - 1
+    - name: AccountWeeks
+      type: int64
+      samples:
+      - 130
+      - 123
+      - 69
+    - name: ContractRenewal
+      type: int64
+      samples:
+      - 0
+      - 0
+      - 1
+    - name: DataPlan
+      type: int64
+      samples:
+      - 0
+      - 1
+      - 0
+    - name: DataUsage
+      type: float64
+      samples:
+      - 0.22
+      - 0.44
+      - 2.67
+    - name: CustServCalls
+      type: int64
+      samples:
+      - 0
+      - 9
+      - 8
+    - name: DayMins
+      type: float64
+      samples:
+      - 206.0
+      - 125.7
+      - 209.7
+    - name: DayCalls
+      type: int64
+      samples:
+      - 82
+      - 145
+      - 79
+    - name: MonthlyCharge
+      type: float64
+      samples:
+      - 54.8
+      - 40.3
+      - 45.9
+    - name: OverageFee
+      type: float64
+      samples:
+      - 15.08
+      - 13.9
+      - 2.93
+    - name: RoamMins
+      type: float64
+      samples:
+      - 13.6
+      - 3.3
+      - 7.1
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ Can you provide me the detailed statistic of this dataset
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+2024-06-08 21:26:30 [INFO] Executing Step 3: CodeGenerator
+2024-06-08 21:26:32 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-08 21:26:32 [INFO] Prompt used:
+            dfs[0]:
+  name: null
+  description: null
+  type: pd.DataFrame
+  rows: 3333
+  columns: 11
+  schema:
+    fields:
+    - name: Churn
+      type: int64
+      samples:
+      - 0
+      - 0
+      - 1
+    - name: AccountWeeks
+      type: int64
+      samples:
+      - 130
+      - 123
+      - 69
+    - name: ContractRenewal
+      type: int64
+      samples:
+      - 0
+      - 0
+      - 1
+    - name: DataPlan
+      type: int64
+      samples:
+      - 0
+      - 1
+      - 0
+    - name: DataUsage
+      type: float64
+      samples:
+      - 0.22
+      - 0.44
+      - 2.67
+    - name: CustServCalls
+      type: int64
+      samples:
+      - 0
+      - 9
+      - 8
+    - name: DayMins
+      type: float64
+      samples:
+      - 206.0
+      - 125.7
+      - 209.7
+    - name: DayCalls
+      type: int64
+      samples:
+      - 82
+      - 145
+      - 79
+    - name: MonthlyCharge
+      type: float64
+      samples:
+      - 54.8
+      - 40.3
+      - 45.9
+    - name: OverageFee
+      type: float64
+      samples:
+      - 15.08
+      - 13.9
+      - 2.93
+    - name: RoamMins
+      type: float64
+      samples:
+      - 13.6
+      - 3.3
+      - 7.1
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ Can you provide me the detailed statistic of this dataset
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+            
+2024-06-08 21:26:32 [INFO] Code generated:
+            ```
+            # TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+df = dfs[0]
+
+# Get detailed statistics of the dataset
+detailed_stats = df.describe()
+
+# Declare result var
+result = {
+    "type": "dataframe",
+    "value": detailed_stats
+}
+            ```
+            
+2024-06-08 21:26:32 [INFO] Executing Step 4: CachePopulation
+2024-06-08 21:26:32 [INFO] Executing Step 5: CodeExecution
+2024-06-08 21:26:32 [INFO] 
+Code running:
+```
+df = dfs[0]
+detailed_stats = df.describe()
+result = {'type': 'dataframe', 'value': detailed_stats}
+        ```
+2024-06-08 21:26:32 [INFO] Executing Step 6: ResultValidation
+2024-06-08 21:26:32 [INFO] Answer: {'type': 'dataframe', 'value':              Churn  AccountWeeks  ContractRenewal     DataPlan    DataUsage  \
+count  3333.000000   3333.000000      3333.000000  3333.000000  3333.000000   
+mean      0.144914    101.064806         0.903090     0.276628     0.816475   
+std       0.352067     39.822106         0.295879     0.447398     1.272668   
+min       0.000000      1.000000         0.000000     0.000000     0.000000   
+25%       0.000000     74.000000         1.000000     0.000000     0.000000   
+50%       0.000000    101.000000         1.000000     0.000000     0.000000   
+75%       0.000000    127.000000         1.000000     1.000000     1.780000   
+max       1.000000    243.000000         1.000000     1.000000     5.400000   
+
+       CustServCalls      DayMins     DayCalls  MonthlyCharge   OverageFee  \
+count    3333.000000  3333.000000  3333.000000    3333.000000  3333.000000   
+mean        1.562856   179.775098   100.435644      56.305161    10.051488   
+std         1.315491    54.467389    20.069084      16.426032     2.535712   
+min         0.000000     0.000000     0.000000      14.000000     0.000000   
+25%         1.000000   143.700000    87.000000      45.000000     8.330000   
+50%         1.000000   179.400000   101.000000      53.500000    10.070000   
+75%         2.000000   216.400000   114.000000      66.200000    11.770000   
+max         9.000000   350.800000   165.000000     111.300000    18.190000   
+
+          RoamMins  
+count  3333.000000  
+mean     10.237294  
+std       2.791840  
+min       0.000000  
+25%       8.500000  
+50%      10.300000  
+75%      12.100000  
+max      20.000000  }
+2024-06-08 21:26:32 [INFO] Executing Step 7: ResultParsing
+2024-06-08 21:27:23 [INFO] Question: Can you provide me the detailed statistic of this dataset
+2024-06-08 21:27:23 [INFO] Running PandasAI with openai LLM...
+2024-06-08 21:27:23 [INFO] Prompt ID: e7bb78e5-8059-43bc-9117-5b238161a0af
+2024-06-08 21:27:23 [INFO] Executing Pipeline: GenerateChatPipeline
+2024-06-08 21:27:23 [INFO] Executing Step 0: ValidatePipelineInput
+2024-06-08 21:27:23 [INFO] Executing Step 1: CacheLookup
+2024-06-08 21:27:23 [INFO] Executing Step 2: PromptGeneration
+2024-06-08 21:27:24 [INFO] Using prompt: dfs[0]:
+  name: null
+  description: null
+  type: pd.DataFrame
+  rows: 3333
+  columns: 11
+  schema:
+    fields:
+    - name: Churn
+      type: int64
+      samples:
+      - 1
+      - 0
+      - 0
+    - name: AccountWeeks
+      type: int64
+      samples:
+      - 119
+      - 48
+      - 232
+    - name: ContractRenewal
+      type: int64
+      samples:
+      - 1
+      - 0
+      - 1
+    - name: DataPlan
+      type: int64
+      samples:
+      - 0
+      - 1
+      - 0
+    - name: DataUsage
+      type: float64
+      samples:
+      - 4.02
+      - 0.31
+      - 0.29
+    - name: CustServCalls
+      type: int64
+      samples:
+      - 1
+      - 5
+      - 6
+    - name: DayMins
+      type: float64
+      samples:
+      - 250.8
+      - 122.8
+      - 175.8
+    - name: DayCalls
+      type: int64
+      samples:
+      - 122
+      - 148
+      - 138
+    - name: MonthlyCharge
+      type: float64
+      samples:
+      - 108.6
+      - 95.9
+      - 41.4
+    - name: OverageFee
+      type: float64
+      samples:
+      - 4.96
+      - 8.36
+      - 6.71
+    - name: RoamMins
+      type: float64
+      samples:
+      - 11.5
+      - 3.1
+      - 2.4
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ Can you provide me the detailed statistic of this dataset
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+2024-06-08 21:27:24 [INFO] Executing Step 3: CodeGenerator
+2024-06-08 21:27:25 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-08 21:27:25 [INFO] Prompt used:
+            dfs[0]:
+  name: null
+  description: null
+  type: pd.DataFrame
+  rows: 3333
+  columns: 11
+  schema:
+    fields:
+    - name: Churn
+      type: int64
+      samples:
+      - 1
+      - 0
+      - 0
+    - name: AccountWeeks
+      type: int64
+      samples:
+      - 119
+      - 48
+      - 232
+    - name: ContractRenewal
+      type: int64
+      samples:
+      - 1
+      - 0
+      - 1
+    - name: DataPlan
+      type: int64
+      samples:
+      - 0
+      - 1
+      - 0
+    - name: DataUsage
+      type: float64
+      samples:
+      - 4.02
+      - 0.31
+      - 0.29
+    - name: CustServCalls
+      type: int64
+      samples:
+      - 1
+      - 5
+      - 6
+    - name: DayMins
+      type: float64
+      samples:
+      - 250.8
+      - 122.8
+      - 175.8
+    - name: DayCalls
+      type: int64
+      samples:
+      - 122
+      - 148
+      - 138
+    - name: MonthlyCharge
+      type: float64
+      samples:
+      - 108.6
+      - 95.9
+      - 41.4
+    - name: OverageFee
+      type: float64
+      samples:
+      - 4.96
+      - 8.36
+      - 6.71
+    - name: RoamMins
+      type: float64
+      samples:
+      - 11.5
+      - 3.1
+      - 2.4
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ Can you provide me the detailed statistic of this dataset
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+            
+2024-06-08 21:27:25 [INFO] Code generated:
+            ```
+            # TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+dfs[0].describe()
+
+# Declare result var:
+result = { "type": "dataframe", "value": dfs[0].describe() }
+            ```
+            
+2024-06-08 21:27:25 [INFO] Executing Step 4: CachePopulation
+2024-06-08 21:27:25 [INFO] Executing Step 5: CodeExecution
+2024-06-08 21:27:25 [INFO] 
+Code running:
+```
+dfs[0].describe()
+result = {'type': 'dataframe', 'value': dfs[0].describe()}
+        ```
+2024-06-08 21:27:25 [INFO] Executing Step 6: ResultValidation
+2024-06-08 21:27:25 [INFO] Answer: {'type': 'dataframe', 'value':              Churn  AccountWeeks  ContractRenewal     DataPlan    DataUsage  \
+count  3333.000000   3333.000000      3333.000000  3333.000000  3333.000000   
+mean      0.144914    101.064806         0.903090     0.276628     0.816475   
+std       0.352067     39.822106         0.295879     0.447398     1.272668   
+min       0.000000      1.000000         0.000000     0.000000     0.000000   
+25%       0.000000     74.000000         1.000000     0.000000     0.000000   
+50%       0.000000    101.000000         1.000000     0.000000     0.000000   
+75%       0.000000    127.000000         1.000000     1.000000     1.780000   
+max       1.000000    243.000000         1.000000     1.000000     5.400000   
+
+       CustServCalls      DayMins     DayCalls  MonthlyCharge   OverageFee  \
+count    3333.000000  3333.000000  3333.000000    3333.000000  3333.000000   
+mean        1.562856   179.775098   100.435644      56.305161    10.051488   
+std         1.315491    54.467389    20.069084      16.426032     2.535712   
+min         0.000000     0.000000     0.000000      14.000000     0.000000   
+25%         1.000000   143.700000    87.000000      45.000000     8.330000   
+50%         1.000000   179.400000   101.000000      53.500000    10.070000   
+75%         2.000000   216.400000   114.000000      66.200000    11.770000   
+max         9.000000   350.800000   165.000000     111.300000    18.190000   
+
+          RoamMins  
+count  3333.000000  
+mean     10.237294  
+std       2.791840  
+min       0.000000  
+25%       8.500000  
+50%      10.300000  
+75%      12.100000  
+max      20.000000  }
+2024-06-08 21:27:25 [INFO] Executing Step 7: ResultParsing
+2024-06-08 21:52:25 [INFO] PyTorch version 2.3.0 available.
