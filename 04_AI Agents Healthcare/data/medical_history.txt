@@ -1,0 +1,58 @@
+Patient Information:
+- Name: John Doe
+- Age: 45
+- Gender: Male
+- Date of Birth: 15/07/1979
+- Patient ID: JD-456789
+- Date of Report: 12/02/2025
+
+Clinical History:
+- Chief Complaint: Fatigue, dizziness, and frequent headaches.
+- History of Present Illness: The patient has been experiencing persistent fatigue for the past three months, along with occasional dizziness and headaches. Reports frequent urination and increased thirst.
+- Past Medical History: Hypertension, Type 2 Diabetes (diagnosed 5 years ago).
+- Medications: Metformin 500mg, Amlodipine 5mg, Atorvastatin 10mg.
+- Family History: Father had a history of Type 2 Diabetes and heart disease; mother had osteoporosis.
+- Social History: Non-smoker, occasional alcohol consumption, sedentary lifestyle.
+
+Physical Examination:
+- General Appearance: Conscious, alert, mildly overweight.
+
+Vital Signs:
+- Blood Pressure: 145/90 mmHg (High)
+- Heart Rate: 88 bpm (Normal)
+- Respiratory Rate: 16 breaths/min (Normal)
+- Temperature: 101.6°F (High)
+- Oxygen Saturation: 97% (Normal)
+
+Systemic Examination:
+- Cardiovascular: Mild hypertension, no murmurs.
+- Respiratory: Clear breath sounds, no wheezing.
+- Gastrointestinal: No tenderness, normal bowel sounds.
+- Neurological: No focal deficits, normal reflexes.
+- Musculoskeletal: Mild joint stiffness in the morning.
+
+
+Diagnostic Tests:
+Laboratory Tests:
+- Hemoglobin (Anemia): 10.5 g/dL (Low - Mild Anemia)
+- Blood Sugar (Diabetes): 180 mg/dL (High - Poorly Controlled Diabetes)
+- Cholesterol: 230 mg/dL (High - Hypercholesterolemia)
+- Kidney Function Tests:
+- Creatinine: 1.0 mg/dL (Normal)
+- Urea: 35 mg/dL (Normal)
+- Liver Function Tests:
+- ALT: 35 U/L (Normal)
+- AST: 30 U/L (Normal)
+
+Lipid Profile:
+- LDL: 160 mg/dL (High - Above Optimal Level)
+- HDL: 40 mg/dL (Low - Needs Improvement)
+- Triglycerides: 180 mg/dL (Slightly Elevated)
+- Vitamin D: 18 ng/mL (Low - Deficiency Detected)
+- Vitamin B12: 250 pg/mL (Low - Borderline Deficiency)
+
+Imaging & Other Tests:
+- X-ray (Chest): No abnormalities detected.
+- CT Scan (Brain): Normal study.
+- ECG: Mild left ventricular hypertrophy due to hypertension.
+- Ultrasound (Abdomen): Mild fatty liver detected.
